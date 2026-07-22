@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : กิตติภพ อินทำ
 
-Vercel URL :
+Vercel URL : https://lab07-680610656.vercel.app/
 
 ---
 
